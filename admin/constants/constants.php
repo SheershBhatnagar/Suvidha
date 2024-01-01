@@ -7,10 +7,10 @@
     $internshipCompleted = '<span class="badge bg-info-subtle text-info text-uppercase" style="font-size: 12px;">Completed</span>';
     $internshipRejected = '<span class="badge bg-danger-subtle text-danger text-uppercase" style="font-size: 12px;">Rejected</span>';
 
-    $mailHost = "smtp.zoho.in";
+    $mailHost = "";
     $mailAuth = true;
-    $mailUsername = "contact@gamecrash.tech";
-    $mailPassword = "Indian@DevSheersh9702";
-    $mailPort = 587;
-    $mailHostName = "Sheersh";
+    $mailUsername = "";
+    $mailPassword = "";
+    $mailPort = ;
+    $mailHostName = "";
 ?>
